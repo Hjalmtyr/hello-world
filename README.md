@@ -1,2 +1,4 @@
 # hello-world
-Trial repository
+
+Þetta er prófun á github
+Bla og bla
